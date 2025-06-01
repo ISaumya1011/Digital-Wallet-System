@@ -28,14 +28,14 @@ d .Implement rate limiting or OTP checks for security
 
 ---
 
-### Node_modules have not been uploaded on Github due to its large size
-### It can be created by package.json and package-lock.json file
+## Installation: 
+#### Node_modules have not been uploaded on Github due to its large size. It can be created by package.json and package-lock.json file
 ## How to run the app:
-**1. Clone the Github Repository**
-    ```git clone git-repo-link.git```
+### **1. Clone the Github Repository**
+    git clone git-repo-link.git
 
-**2. Execute the command to install dependencies:**
+### **2. Execute the command to install dependencies:**
    ```npm install```
    
-**3. Run the app:**
+### **3. Run the app:**
    ```npm run```
