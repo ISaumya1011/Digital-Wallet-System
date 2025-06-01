@@ -17,6 +17,14 @@ A Full Stack Web-based Digital Wallet System for efficient Transactions, Fraud D
 
 ---
 
-## Directory Structure
-### Backend
-### Frontend
+### Node_modules have not been uploaded on Github due to its large size
+### It can be created by package.json and package-lock.json file
+## How to run the app:
+**1. Clone the Github Repository**
+    ```git clone git-repo-link.git```
+
+**2. Execute the command to install dependencies:**
+   ```npm install```
+   
+**3. Run the app:**
+   ```npm run```
