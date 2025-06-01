@@ -15,6 +15,17 @@ A Full Stack Web-based Digital Wallet System for efficient Transactions, Fraud D
 - Backend API handles all wallet operations and data persistence
 - React frontend provides a user-friendly interface for wallet management
 
+## Additional Security Features to be implemented in future:-
+
+a. Log flagged transactions to a separate collection for admin review
+
+b. Send alerts (e.g., email or in-app)
+
+c. Block transactions if fraud is detected instead of just flagging
+
+d .Implement rate limiting or OTP checks for security
+
+
 ---
 
 ### Node_modules have not been uploaded on Github due to its large size
